@@ -11,13 +11,13 @@ variables:
   azureSubscription: 'dad9e8b7-6b77-411c-afaf-6fda85323b03'
 
   # Web app name
-  webAppName: 'fyptesting1.1'
+  webAppName: 'fyptesting1'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
 
   # Environment name
-  environmentName: 'phptestrp'
+  environmentName: 'fyptesting1'
 
   # Root folder under which your composer.json file is available.
   rootFolder: $(System.DefaultWorkingDirectory)
