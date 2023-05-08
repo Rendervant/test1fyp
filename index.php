@@ -17,7 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 </head>
 <body>
 
-  <h2>Login</h2>
+  <h2>Login 2</h2>
 
   <form method="post">
     <label for="username">Username:</label>
